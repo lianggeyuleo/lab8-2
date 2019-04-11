@@ -3,7 +3,7 @@
  */
 public class Library {
 	public static void main (String arg[]) {
-		System.out.println("Hello everyone!");
+		System.out.println("Hello everyone! jr");
 	}
     public boolean someLibraryMethod() {
         return true;
